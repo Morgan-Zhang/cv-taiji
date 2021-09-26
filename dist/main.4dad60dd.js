@@ -131,7 +131,7 @@ var step = function step() {
       n += 1; //如果n不是最后一个，就继续
       step();
     }
-  }, 0);
+  }, 50);
 };
 
 step(); //1=>2
