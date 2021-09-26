@@ -1,7 +1,6 @@
 let html = document.querySelector("#html");
 let style = document.querySelector("#style");
-let string = ` 
-/* 你好，我叫芒果
+let string = `/* 你好，我叫芒果
  * 接下来我要演示一下我的前端功底
  * 首先我要准备一个div
 */
